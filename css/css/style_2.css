@@ -1,0 +1,5 @@
+p {
+  text-shadow:
+    /* 안쪽 흰색 그림자 */
+    3px 2px 7px #c2cb39;
+}
